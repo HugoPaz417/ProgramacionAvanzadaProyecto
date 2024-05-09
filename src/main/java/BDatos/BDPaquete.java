@@ -23,5 +23,6 @@ public class BDPaquete {
         em.getTransaction().commit();
         em.close();
     }
-    //Richard 
+    //Richard
+    //Tonotos
 }
